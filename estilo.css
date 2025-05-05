@@ -1,0 +1,21 @@
+h1{
+    color:aqua;
+    font-family: 'Poppins', 'Courier New', Courier, monospace;
+}
+p:nth-of-type(1) {
+    font-family: 'poppins', 'Courier new', Courier, monospace;
+    color: black;
+}
+
+h2{
+    color:aqua;
+    font-family: 'poppins', 'Courier new', Courier, monospace;
+}
+p:nth-of-type(){
+    font-family: 'poppins', 'Courier new', Courier, monospace; ;
+    color:
+}
+#foto {
+    width: 300px;
+    aspect-ratio: calc(16/9);
+}
